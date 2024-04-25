@@ -4,6 +4,8 @@ public class pruebita {
 		System.out.println("Necesito piito");
 		
 		String nombre="Torrente";
+		
+		System.out.println(nombre);
 
 	}
 

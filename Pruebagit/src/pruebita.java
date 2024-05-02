@@ -5,7 +5,7 @@ public class pruebita {
 		
 		String nombre="Torrente";
 		
-		System.out.println(nombre);
+		System.out.println();
 
 	}
 
